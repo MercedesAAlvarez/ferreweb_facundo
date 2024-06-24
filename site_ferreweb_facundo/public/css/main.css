@@ -1,0 +1,128 @@
+.home {
+  width: 100%;
+  margin: 0 auto;
+
+}
+
+.home main .banner {
+  display: none;
+
+}
+
+.home main .banner img {
+  width: 100%;
+
+}
+
+.home .carrousel_ofertas {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.home h2 {
+  text-align: center;
+}
+
+.home .carrousel_ofertas .oferta1,
+.oferta2 {
+  width: 50%;
+  margin: 2px;
+}
+
+.home .carrousel_ofertas .oferta1 img {
+  width: 100%;
+
+}
+
+.home .carrousel_ofertas .oferta2 img {
+  width: 100%;
+
+}
+
+.home h2 {
+  text-align: center;
+}
+
+.home .carrousel_mobile_categorias {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  
+}
+.home .carrousel_mobile_categorias div{
+  width: 100%;
+}
+.home .carrousel_mobile_categorias div img {
+  width: 80%;
+
+}
+
+.home .categorias {
+  display: none;
+}
+.home .marcasferre{
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.home .marcasferre div{
+  width: 22%;
+  margin: 10px;
+}
+ 
+.home .marcasferre div img{
+  width: 100%;
+}
+ 
+.home .marcasferre .stihl{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+/* .home main .category{
+    width: 100%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+.home h2{
+    text-align: center;
+
+}
+  .home main .categorias{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+  }
+  .home main .categorias section{
+    width: 40%;
+  }
+  .home main .categorias .electricidad{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column-reverse;
+    align-items: center;
+    align-content: space-between;
+    flex-wrap: wrap;
+
+  }
+  .home main .categorias .electricidad div{
+    width: 80%;
+  }
+  .home main .categorias .electricidad div img{
+    width: 100%;
+  }
+
+  .home main .categorias .electricidad h3{
+    width: 20%;
+    text-align: center;
+    font-size: 30px;
+  }
+   */

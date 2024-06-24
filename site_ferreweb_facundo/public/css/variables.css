@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+:root{
+
+    /* Colores Paleta */
+    --colorNaranja:#ff7a1c;
+    --colorMilkyWhite:#fafffc;
+    --colorNegro:#000000;
+    --colorAzul:#1b43ff;
+    --colorGrisClaro:#d5e1d7;
+    --colorPatito:#fff164;
+
+    /* Fuentes */
+    --fuentePrincipal:"Nunito", sans-serif;
+    --fuenteSecundaria:"Rubik";
+
+
+}

@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(53, 51, 51);
+}
+.home{
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: var( --colorGrisClaro);
+    font-family: var(--fuentePrincipal);
+}
